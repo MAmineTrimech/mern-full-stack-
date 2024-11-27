@@ -1,0 +1,19 @@
+.underline{
+  width: 252px;
+  height: 5px;
+  background-color:darkslategray;
+}
+.underline1{
+  width: 312px;
+  height: 5px;
+  background-color:darkslategray;
+}
+
+.text-center {
+  font-size: 5rem; /* Adjust the font size to make it larger */
+}
+
+
+nav a.active{
+  color: black!important;
+}
